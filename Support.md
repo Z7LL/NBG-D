@@ -1,2 +1,2 @@
 # Support
-https:/dsc.gg/Z7LL
+https://dsc.gg/Z7LL
