@@ -106,3 +106,5 @@ For support, email m9arwan9999@gmail.com or join our [Discord Server](https://ds
 ### Authors
 
 - [@Z7LL](https://www.github.com/Z7LL)
+------------------------------------------
+![Logo](https://i.ibb.co/2dv3N6p/NGB-D.png)
