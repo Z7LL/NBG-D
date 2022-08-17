@@ -12,10 +12,6 @@ The best and the easiest nitro generator.
  ![App Screenshot](https://i2.paste.pics/af31b33dbaa2ba0c61af344d54f332d4.png)
 -------------
 -------------
--------------
--------------
--------------
--------------
 #### Way number Two **manual installation**.
 - First go to [Discord Developer Portal applications](https://discord.com/developers/applications)
 - Create a new application
