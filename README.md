@@ -4,19 +4,33 @@ The best and the easiest nitro generator.
 - You can get **Band** form `Discord`.
 
 ## Requirements
-#### You need to have [python](https://www.python.org/downloads) Downloaded.
+#### You need to have [python](https://www.python.org/downloads) **Downloaded**.
+#### **Only** for Way **number Two** [Git](https://git-scm.com/downloads).
+#### **Discord bot Token**.
 # Installation
-### There is `Three` ways to install the `Nitro-Generator` .
+### There is `Four` ways to install the `Nitro-Generator` .
 ### Way number One is Downloading the .exe file from --> [Downlode](https://www.mediafire.com/file/jjysv09iwbam31z/NGB-D.rar/file).
 #### after Downlodeing the file Run it and fill in the blanks and when the **Token title** pupup Type the **Discord Bot token** and **press enter** in your keyboard and the bot will start. Enjoy✨
 ![App Screenshot](https://i.ibb.co/jHb573N/Screenshot-1.png)
 ----------------------------
-#### Way number Two **automatic installation**.
+## Way number Two **`cloning`**
+- To **clone** the project You need to have [Git](https://git-scm.com/downloads) Downloaded and `follow the steps.`
+- Go to the [Github page](https://github.com/Z7LL/NBG-D/blob/Nitro-Gen/README.md) and click on **Code** and then **Copy** the **HTTPS code**
+![App Screenshot](https://i.ibb.co/fxZvFJQ/Screenshot-2.png)
+![App Screenshot](https://i.ibb.co/0nwjtw8/Screenshot-3.png)
+- Create a new folder in the **Desktop** and then **open** the `folder` **run CMD** form the folder
+![App Screenshot](https://i.ibb.co/gWYZSmv/Screenshot-4.png)
+- Run in the **CMD** `git clone https://github.com/Z7LL/NBG-D` and go back to the folder you will find all of the Elements in side the folder.
+![App Screenshot](https://i.ibb.co/gdmY9dx/Screenshot-5.png)
+- open the folder `NGB-D` and open again `NGB-D` open `Nitro bot` `NGB-D.py` This is the code. There is too a `icons` **folder**.
+- if you want to **convert** the `.py` to `.exe`follow [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) 
+---------------------------------
+#### Way number Three **automatic installation**.
 - First Join my [Discord Server](https://dsc.gg/Z7LL) and add the bot to your server. `don't forget to read the discord bot *about me*`.
  ![App Screenshot](https://i2.paste.pics/af31b33dbaa2ba0c61af344d54f332d4.png)
 -------------
 -------------
-#### Way number Two **manual installation**.
+#### Way number Four **manual installation**.
 - First go to [Discord Developer Portal applications](https://discord.com/developers/applications)
 - Create a new application
 ![App Screenshot](https://i2.paste.pics/05ed273040cea92077ea25f6e861ea73.png)
