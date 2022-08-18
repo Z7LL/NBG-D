@@ -111,4 +111,19 @@ For support, email m9arwan9999@gmail.com or join our [Discord Server](https://ds
 
 - [@Z7LL](https://www.github.com/Z7LL)
 ------------------------------------------
+# Security Policy
+
+## Supported Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| v1      | :white_check_mark: |
+| v2      | :white_check_mark: |
+| v3      | :white_check_mark: |
+| v4      | :x: coming soon    |
+
+## Reporting a Vulnerability
+- Join my   [Discord server](https://dsc.gg/Z7LL) and go to Public Chat and Reporting a Vulnerability.
+- Dm me in Discord Z7LL#9999
+-----------------------------------------------------
 ![Logo](https://i.im.ge/2022/08/18/OsOj2f.NGB-D-Circle.png)
